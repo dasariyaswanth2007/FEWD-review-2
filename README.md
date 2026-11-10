@@ -1,6 +1,11 @@
 # Online Art Gallery — ArtLoom (React Edition)
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/e21fde44-c23a-4d6b-afdc-4f2e528d6af1/deploy-status)](https://app.netlify.com/projects/prismatic-malabi-08328e/deploys)
+[![Live Site](https://img.shields.io/badge/Netlify-Live_Demo-00C7B7?style=flat&logo=netlify&logoColor=white)](https://prismatic-malabi-08328e.netlify.app)
+
 **SDC Project Review-2 | Frontend Web Development with React**
+
+🌐 **Live URL**: [https://prismatic-malabi-08328e.netlify.app](https://prismatic-malabi-08328e.netlify.app)
 
 A complete, modern Single Page Application (SPA) built using **React 18+**, **React Router DOM**, **Context API**, and **CSS3 Grid & Flexbox**. Converted from the Review-1 vanilla implementation to an enterprise-grade component architecture while preserving 100% of the original feature set, local data persistence schema, and responsive UI.
 
